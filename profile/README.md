@@ -1,3 +1,3 @@
 # We are Engineer💡🖊
 
-![MethodHeader](./method-header.png)
+![MethodHeader](https://raw.githubusercontent.com/MethodHQ/.github/main/profile/method-header.png)
